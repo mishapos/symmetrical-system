@@ -9,5 +9,8 @@
         }
       }
     }
+  },
+  "global-headers" : {
+    "mishaposHeader": "mishaposHeaderValue"
   }
 }
