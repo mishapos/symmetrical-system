@@ -10,7 +10,7 @@
       }
     }
   },
-  "global-headers" : {
+  "globalHeaders" : {
     "mishaposHeader": "mishaposHeaderValue"
   }
 }
