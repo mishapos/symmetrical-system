@@ -12,5 +12,11 @@
   },
   "globalHeaders" : {
     "mishaposHeader": "mishaposHeaderValue"
-  }
+  },
+  "routes": [
+    {
+      "route": "secret.html",
+      "allowedRoles": ["authenticated"]
+    }
+  ]
 }
